@@ -1,0 +1,9 @@
+
+//PROCESO PARA IMPORTAR LAS LIBRERIRAS
+npm i bootstrap
+npm i react-bootstrap
+npm i react-router-dom
+npm i react-toastify
+npm i @fortawesome/fontawesome-free
+npm i js-sha512
+npm i jwt-decode
